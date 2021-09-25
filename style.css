@@ -17,6 +17,7 @@ a {
     text-decoration: none;
     cursor         : pointer;
     font-size      : 20px;
+    color          : white;
 }
 
 a:visited {
@@ -86,7 +87,7 @@ nav ul li {
     font-size : 20px;
     direction : ltr;
     margin-top: 10px;
-    color     : black;
+    color     : white;
 }
 
 nav ul li:hover a{
