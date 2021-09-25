@@ -90,8 +90,10 @@ nav ul li {
     color     : white;
 }
 
-nav ul li:hover a{
+nav ul li:hover {
     background-color: black;
+}
+nav ul li a:hover{
     color           : white;
 }
 
